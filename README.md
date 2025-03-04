@@ -6,6 +6,7 @@ Glad to see you here!
 As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating processes, and bridging the gap between development and operations. I thrive on building scalable, reliable, and secure systems that empower teams to deliver faster and more efficiently.
 
 ---
+
 🛠️ Tech Stack
 
 * **CI/CD Tools**: AWS DevOps, Azure DevOps, Jenkins
@@ -19,6 +20,7 @@ As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating
 * **Orchestration**: Kubernetes
 
 * **Infrastructure as Code**: Terraform
+---
 
 
 🌟 What I Bring to the Table
@@ -33,6 +35,7 @@ As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating
 
 * **Collaboration:** Strong advocate for collaboration between teams, ensuring smooth workflows and efficient delivery.
 
+---
 
 🚀 Key Achievements
 
@@ -44,7 +47,7 @@ As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating
 * **"Containerization":** Containerized applications using Docker and orchestrated them with Kubernetes for seamless scaling and management.
 
 * **"Infrastructure as Code":** Automated infrastructure provisioning using Terraform, reducing manual effort and ensuring consistency.
-
+---
 
 💡 Philosophy & Approach
 
@@ -55,6 +58,7 @@ As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating
 
 * **"Continuous Improvement":** Always learning and improving—whether it's tools, processes, or myself.
 
+---
 
 🌱 What I'm Exploring
 
@@ -65,7 +69,7 @@ As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating
 
 * **Security in DevOps**: Integrating security practices into CI/CD pipelines for proactive vulnerability management.
 
-
+---
 📫 Let's Connect!
 
 * **💬 Ask me about**: DevOps, CI/CD, Kubernetes, Terraform, or anything automation-related!
@@ -74,7 +78,7 @@ As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating
 
 * **🔗 LinkedIn:**
 
-
+---
 🎯 Fun Facts
 
 * I believe in the power of open-source and actively contribute to the community.
