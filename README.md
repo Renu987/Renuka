@@ -11,6 +11,7 @@ As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating
 🛠️ Tech Stack
 
 
+
 * **CI/CD Tools**: AWS DevOps, Azure DevOps, Jenkins
 
 * **Version Control**: Git, Bitbucket
@@ -26,6 +27,7 @@ As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating
 
 
 🌟 What I Bring to the Table
+
 
 
 * **Automation Expertise:** Proficient in creating CI/CD pipelines to automate build, test, and deployment processes.
@@ -44,6 +46,7 @@ As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating
 
 
 
+
 * **"CI/CD Pipelines":** Built robust CI/CD pipelines using Jenkins and Azure DevOps, enabling faster and more reliable deployments.
 
 * **"Cloud Infrastructure":** Designed and managed scalable cloud environments on AWS and Azure, ensuring high availability and performance.
@@ -54,6 +57,7 @@ As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating
 ---
 
 💡 Philosophy & Approach
+
 
 
 
@@ -69,6 +73,7 @@ As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating
 
 
 
+
 * **Serverless Architectures:** Delving into serverless computing for cost-effective and scalable solutions.
 
 * **GitOps**: Exploring tools like ArgoCD for declarative Kubernetes deployments.
@@ -79,6 +84,7 @@ As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating
 📫 Let's Connect!
 
 
+
 * **💬 Ask me about**: DevOps, CI/CD, Kubernetes, Terraform, or anything automation-related!
 
 * **📧 Email:** yamalarenuka22@gmail.com
@@ -87,6 +93,7 @@ As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating
 
 ---
 🎯 Fun Facts
+
 
 
 * I believe in the power of open-source and actively contribute to the community.
