@@ -5,7 +5,7 @@ Glad to see you here!
 
 As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating processes, and bridging the gap between development and operations. I thrive on building scalable, reliable, and secure systems that empower teams to deliver faster and more efficiently.
 
-
+---
 🛠️ Tech Stack
 
 * **CI/CD Tools**: AWS DevOps, Azure DevOps, Jenkins
