@@ -3,11 +3,13 @@
 Glad to see you here!
 
 
+
 As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating processes, and bridging the gap between development and operations. I thrive on building scalable, reliable, and secure systems that empower teams to deliver faster and more efficiently.
 
 ---
 
 🛠️ Tech Stack
+
 
 * **CI/CD Tools**: AWS DevOps, Azure DevOps, Jenkins
 
@@ -25,6 +27,7 @@ As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating
 
 🌟 What I Bring to the Table
 
+
 * **Automation Expertise:** Proficient in creating CI/CD pipelines to automate build, test, and deployment processes.
 
 * **Cloud Proficiency:** Skilled in designing and managing cloud infrastructure on AWS.
@@ -40,7 +43,8 @@ As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating
 🚀 Key Achievements
 
 
-***"CI/CD Pipelines":** Built robust CI/CD pipelines using Jenkins and Azure DevOps, enabling faster and more reliable deployments.
+
+* **"CI/CD Pipelines":** Built robust CI/CD pipelines using Jenkins and Azure DevOps, enabling faster and more reliable deployments.
 
 * **"Cloud Infrastructure":** Designed and managed scalable cloud environments on AWS and Azure, ensuring high availability and performance.
 
@@ -50,6 +54,7 @@ As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating
 ---
 
 💡 Philosophy & Approach
+
 
 
 * **"Automate Everything":** I believe in automating repetitive tasks to free up time for innovation and problem-solving.
@@ -63,6 +68,7 @@ As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating
 🌱 What I'm Exploring
 
 
+
 * **Serverless Architectures:** Delving into serverless computing for cost-effective and scalable solutions.
 
 * **GitOps**: Exploring tools like ArgoCD for declarative Kubernetes deployments.
@@ -72,6 +78,7 @@ As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating
 ---
 📫 Let's Connect!
 
+
 * **💬 Ask me about**: DevOps, CI/CD, Kubernetes, Terraform, or anything automation-related!
 
 * **📧 Email:** yamalarenuka22@gmail.com
@@ -80,6 +87,7 @@ As a **DevOps** **Engineer**, I specialize in streamlining workflows, automating
 
 ---
 🎯 Fun Facts
+
 
 * I believe in the power of open-source and actively contribute to the community.
 
